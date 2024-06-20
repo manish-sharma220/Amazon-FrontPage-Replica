@@ -1,0 +1,1 @@
+This project is a static replica of the Amazon.com front page, built purely with HTML and CSS. It aims to demonstrate proficiency in front-end web development, including layout design, styling, and responsiveness.
